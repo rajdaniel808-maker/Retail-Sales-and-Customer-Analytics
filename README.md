@@ -378,7 +378,7 @@ Install the following:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/rajdaniel808-maker/Retail-Sales-and-Customer-Analytics.git
 ```
 
 Navigate into the project directory:
@@ -518,7 +518,7 @@ Possible future improvements include:
 
 ## 👨‍💻 Author
 
-**BJR**
+**B. Joseph Daniel Raj**
 
 BSc Computer Science & Machine Learning
 
